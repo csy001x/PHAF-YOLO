@@ -1,6 +1,6 @@
 # PHAF-YOLO: Lightweight Progressive Multi-Kernel Enhancement and Hierarchical Adaptive Fusion for Real-Time Aerial Small Object Detection
 
-### The code above will be made publicly available upon acceptance of the paper.
+### The code above will be unlocked upon acceptance of the paper.
 
 <div align="center">
   <img src="result.svg" alt="PHAF-YOLO Performance Comparison" style="width: 90%; max-width: 900px;">
